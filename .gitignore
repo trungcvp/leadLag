@@ -1,0 +1,14 @@
+# Bỏ qua thư mục data và các file .pkl, .csv, .ipynb_checkpoints
+data/
+*.csv
+
+
+# Bỏ qua notebook checkpoints
+.ipynb_checkpoints/
+
+# Bỏ qua virtual environment
+.venv/
+venv/
+*.egg-info/
+__pycache__/
+*.pyc

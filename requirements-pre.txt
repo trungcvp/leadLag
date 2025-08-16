@@ -1,0 +1,6 @@
+pip>=24.0
+setuptools>=68.0
+wheel>=0.41
+Cython==0.29.36
+numpy==1.24.4
+llvmlite==0.41.1

@@ -1,0 +1,14 @@
+name: leadlag
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - scipy
+  - numpy=1.24.4
+  - pandas
+  - pyzmq
+  - statsmodels
+  - scikit-learn
+  - numba
+  - llvmlite
+  - libstdcxx-ng
