@@ -13,7 +13,7 @@ Bài tiểu luận môn học Máy học (Machine Learning).
 
 ### 1. Clone repo
 ```bash
-git clone https://github.com/<username>/<repo>.git
+git clone https://github.com/trungcvp/leadLag.git
 cd <repo>
 ```
 
